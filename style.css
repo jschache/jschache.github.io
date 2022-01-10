@@ -20,7 +20,7 @@ body {
     padding:5px;
 }
 
-.headlink a:link,a:visited {
+.headlink a:link, .headlink a:visited {
     display:block;
     width:129px;
     color:#ffffff;
@@ -30,7 +30,7 @@ body {
 }
 
 
-.headlink a:hover,a:active {
+.headlink a:hover, .headlink a:active {
     color:#c7d7e0;
     text-decoration:none;
     background-color:#113649;
